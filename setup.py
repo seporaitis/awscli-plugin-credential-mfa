@@ -28,7 +28,7 @@ with codecs.open('requirements.txt', 'r', 'utf-8') as file_:
 setup(
     name='awscli-plugin-credential-mfa',
     py_modules=['awscli_plugin_credential_mfa'],
-    version='0.0.1',
+    version=version,
     description='awscli plugin enabling automatic usage of mfa token',
     long_description=readme + '\n\n' + history,
     author='Julius Seporaitis',

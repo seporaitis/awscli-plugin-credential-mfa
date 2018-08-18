@@ -2,6 +2,9 @@
 awscli-plugin-credential-mfa
 =============================
 
+.. image:: https://img.shields.io/pypi/v/awscli-plugin-credential-mfa.svg
+        :target: https://pypi.python.org/pypi/awscli-plugin-credential-mfa
+
 .. image:: https://img.shields.io/travis/seporaitis/awscli-plugin-credential-mfa/master.svg
         :target: https://travis-ci.org/seporaitis/awscli-plugin-credential-mfa
 
