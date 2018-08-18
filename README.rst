@@ -2,6 +2,9 @@
 awscli-plugin-credential-mfa
 =============================
 
+.. image:: https://img.shields.io/travis/seporaitis/awscli-plugin-credential-mfa/master.svg
+        :target: https://travis-ci.org/seporaitis/awscli-plugin-credential-mfa
+
 Automatically asks for MFA token key to retrieve temporary credentials.
 
 Installation and Usage
